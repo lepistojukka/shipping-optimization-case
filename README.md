@@ -77,25 +77,25 @@ Vessel positions data set represent the initial position of each vessel in the s
 ## Problem description
 
 ### Variables (not a comprehensive list)
-Amount of cargo to be transported
-Bunker fuel consumption
+* Amount of cargo to be transported
+* Bunker fuel consumption
 
 ### Constant (not a comprehensive list)
-Port distances
-Vessel capacity
-Laycan time
+* Port distances
+* Vessel capacity
+* Laycan time
 
 ### Decision variables
 Which vessel should visit which port and in which order => itinerary for vessels
 
 ### Objectives (not a comprehensive list)
-Minimize total distance sailed by vessel
-Minimize bunker fuel consumption while satisfying the laycan times
+* Minimize total distance sailed by vessel
+* Minimize bunker fuel consumption while satisfying the laycan times
 
 ### Constrains (not a comprehensive list)
-Don't exceed the carrying capacity of a vessel
-Meet requirement laycan times (delivery time window)
-Consider the port draft restriction for vessel
+* Don't exceed the carrying capacity of a vessel
+* Meet requirement laycan times (delivery time window)
+* Consider the port draft restriction for vessel
 
 ## Approach
 First test with simple set of data and then iterate with more complex scenarios and scaled data sets.

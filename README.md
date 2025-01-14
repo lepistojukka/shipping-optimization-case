@@ -1,4 +1,4 @@
-# Case description and datasets for optimization use case of cargo shipment
+# Case description and datasets for optimization use case of cargo shipments
 
 This repository contains imaginary case description and data sets for bulk cargo shipping from South America to Far East. The case and the data sets are used for quantum calcution experiments to optimize cargo allocation, scheduling and resources. 
 
@@ -41,7 +41,7 @@ Problem Definition:
     * Capacity Constraints: Each vehicle has a maximum capacity for goods or passengers it can carry. The sum of the demands served by a single vehicle must not exceed its capacity.
 
 ## The problem
-There are multiple cargos that needs to transported from its origin to the destination port. How do we satisfy transportation demand at the loading and discharging ports without wasting money on bunker fuel and maximizing income.
+There are multiple cargos that needs to transported from its origin port to the destination port. How do we satisfy transportation demand at the loading and discharging ports without wasting money on bunker fuel and while maximizing the operating income.
 
 ### Problem goal:
 Reduce bunker fuel costs and the time it takes to build cargo loading schedules and itinerarios for each vessel, while making sure the delivery requirements (for instance `laycan` and `draft`) are met.
@@ -77,13 +77,13 @@ Vessel positions data set represent the initial position of each vessel in the s
 ## Problem description
 
 ### Variables (not a comprehensive list)
-amount of cargo to be transported
-bunker fuel consumption
+Amount of cargo to be transported
+Bunker fuel consumption
 
 ### Constant (not a comprehensive list)
-port distances
-vessel capacity
-laycan time
+Port distances
+Vessel capacity
+Laycan time
 
 ### Decision variables
 Which vessel should visit which port and in which order => itinerary for vessels

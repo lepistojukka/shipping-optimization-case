@@ -1,0 +1,101 @@
+Origin Port;Destination Port;Cargo Type;Cargo Amount (tons);Freight Rate (USD/ton);Distance (nautical miles);Total Freight Cost (USD);Laycan From;Laycan Till
+Port of Santos;Port of Shanghai;steel;599008;41.93;10026;25116405.44;2025-03-10;2025-04-24
+Port of Rio Grande;Port of Tianjin;grains;592089;44.24;10158;26194017.36;2025-03-23;2025-05-05
+Port of Tubarão;Port of Qingdao;soya beans;609373;55.3;9420;33698326.9;2025-02-03;2025-03-18
+Port of Tubarão;Port of Shanghai;pulp;1387758;51.41;9628;71344638.78;2025-02-06;2025-03-19
+Port of Tubarão;Port of Guangzhou;tissue;776435;51.51;9325;39994166.85;2025-04-11;2025-05-17
+Port of Vitória;Port of Tangshan;tissue;1707588;42.34;9204;72299275.92;2025-03-18;2025-04-27
+Port of Montevideo;Port of Guangzhou;kraft liner board;1346186;35.86;9909;48274229.96;2025-03-20;2025-05-03
+Port of Montevideo;Port of Rizhao;soya beans;1937672;33.45;10593;64815128.4;2025-03-25;2025-05-05
+Port of Santos;Port of Guangzhou;panel products;1535601;54.11;9684;83091370.11;2025-02-25;2025-04-04
+Port of Rio Grande;Port of Kobe;tissue;1798780;52.17;10408;93842352.6;2025-02-19;2025-04-03
+Port of Paranaguá;Port of Dalian;grains;1910268;41.35;9861;78989581.8;2025-03-22;2025-05-01
+Port of Bahía Blanca;Port of Keelung;panel products;789022;34.01;9966;26834638.22;2025-02-15;2025-04-01
+Port of Montevideo;Port of Tianjin;pulp;996965;43.46;10424;43328098.9;2025-04-20;2025-06-02
+Port of Santos;Port of Keelung;paper;1382647;37.34;10152;51628038.98;2025-02-20;2025-04-04
+Port of Montevideo;Port of Dalian;soya beans;1317687;44.17;10543;58202234.79;2025-03-23;2025-05-02
+Port of Itaqui;Port of Yokohama;panel products;1572214;40.96;8820;64397885.44;2025-02-14;2025-03-20
+Port of Buenos Aires;Port of Qingdao;tissue;639595;43.92;10700;28091012.4;2025-03-07;2025-04-15
+Port of Paranaguá;Port of Ningbo-Zhoushan;tissue;621930;50.94;10218;31681114.2;2025-02-08;2025-02-14
+Port of São Francisco do Sul;Port of Ulsan;steel;1726401;49.92;10239;86181937.92;2025-03-03;2025-04-08
+Port of Vitória;Port of Ningbo-Zhoushan;tissue;1523310;50.09;9668;76302597.9;2025-02-19;2025-04-03
+Port of Itaqui;Port of Gwangyang;corn;743678;42.11;8813;31316280.58;2025-02-17;2025-03-22
+Port of Buenos Aires;Port of Taichung;rice;1886343;44.66;10179;84244078.38;2025-02-10;2025-03-16
+Port of Paranaguá;Port of Guangzhou;pulp;932729;55.39;9801;51663859.31;2025-03-20;2025-04-25
+Port of Santos;Port of Tianjin;grains;1170135;41.95;9593;49087163.25;2025-03-11;2025-05-25
+Port of Vitória;Port of Dalian;steel;1743615;53.5;9351;93283402.5;2025-02-05;2025-03-13
+Port of Paranaguá;Port of Taichung;steel;1110855;35.33;10209;39246507.15;2025-04-01;2025-05-12
+Port of Rio Grande;Port of Gwangyang;kraft liner board;1268535;36.54;10632;46352268.9;2025-04-28;2025-06-06
+Port of Montevideo;Port of Incheon;soya beans;1347657;51.45;10600;69336952.65;2025-03-28;2025-05-07
+Port of Tubarão;Port of Tangshan;kraft liner board;1527990;48.89;9204;74703431.1;2025-02-23;2025-03-28
+Port of Rio Grande;Port of Rizhao;paper;1729438;54.1;10342;93562595.8;2025-02-04;2025-03-12
+Port of Itaqui;Port of Kobe;granite blocks;1613758;52.83;8878;85254835.14;2025-02-17;2025-03-23
+Port of Montevideo;Port of Kobe;tissue;991652;47.03;10247;46637393.56;2025-03-16;2025-04-24
+Port of São Francisco do Sul;Port of Ningbo-Zhoushan;granite blocks;1555800;34.57;10243;53784006.0;2025-03-10;2025-04-15
+Port of Bahía Blanca;Port of Rizhao;panel products;1154468;45.2;10591;52181953.6;2025-02-21;2025-04-02
+Port of Buenos Aires;Port of Lianyungang;rice;520989;47.23;10688;24606310.47;2025-02-15;2025-03-27
+Port of Paranaguá;Port of Nagoya;corn;597513;59.57;10167;35593849.41;2025-04-24;2025-05-29
+Port of Rio Grande;Port of Guangzhou;corn;1689227;48.02;9864;81116680.54;2025-03-16;2025-04-28
+Port of São Francisco do Sul;Port of Taichung;paper;584544;30.81;10209;18009800.64;2025-04-07;2025-05-17
+Port of Vitória;Port of Rizhao;kraft liner board;1552441;41.78;9409;64860984.98;2025-03-14;2025-04-29
+Port of Bahía Blanca;Port of Yantai;kraft liner board;1969141;47.53;10616;93593271.73;2025-03-19;2025-05-03
+Port of Montevideo;Port of Guangzhou;lumber;1736862;31.59;9909;54867470.58;2025-02-09;2025-03-17
+Port of Tubarão;Port of Kobe;pulp;1306503;58.57;9911;76521880.71;2025-04-03;2025-05-14
+Port of Tubarão;Port of Kobe;granite blocks;743100;37.82;9911;28104042.0;2025-02-19;2025-02-25
+Port of Vitória;Port of Nagoya;kraft liner board;1871765;47.04;9907;88047825.6;2025-03-20;2025-03-25
+Port of Vitória;Port of Tangshan;rice;1407314;51.9;9204;73039596.6;2025-04-05;2025-04-15
+Port of Santos;Port of Yokohama;rice;738285;41.42;10050;30579764.7;2025-04-08;2025-04-19
+Port of São Francisco do Sul;Port of Incheon;lumber;1087635;49.51;10093;53848808.85;2025-02-09;2025-02-16
+Port of Itaqui;Port of Rizhao;tissue;745925;44.47;8639;33171284.75;2025-04-22;2025-04-27
+Port of São Francisco do Sul;Port of Yantai;steel;1994395;56.97;9965;113620683.15;2025-02-13;2025-02-25
+Port of Rio Grande;Port of Ningbo-Zhoushan;granite blocks;1938798;31.77;10455;61595612.46;2025-04-18;2025-05-02
+Port of São Francisco do Sul;Port of Yokohama;steel;1812786;46.46;10110;84222037.56;2025-04-03;2025-04-18
+Port of Buenos Aires;Port of Gwangyang;lumber;1722991;45.85;10506;78999137.35;2025-03-03;2025-03-17
+Port of Montevideo;Port of Dalian;tissue;536361;51.36;10543;27547500.96;2025-04-15;2025-04-24
+Port of Rio Grande;Port of Qingdao;grains;1045799;54.8;10362;57309785.2;2025-03-14;2025-03-25
+Port of Montevideo;Port of Lianyungang;paper;817605;55.85;10578;45663239.25;2025-02-26;2025-03-13
+Port of Vitória;Port of Rizhao;lumber;825986;42.42;9409;35038326.12;2025-02-17;2025-03-02
+Port of São Francisco do Sul;Port of Lianyungang;soya beans;1134577;46.78;10004;53075512.06;2025-03-20;2025-03-27
+Port of Itaqui;Port of Keelung;corn;889693;60.0;9232;53381580.0;2025-03-20;2025-03-31
+Port of Paranaguá;Port of Incheon;lumber;670924;58.14;10050;39007521.36;2025-03-23;2025-03-30
+Port of Bahía Blanca;Port of Gwangyang;lumber;1312029;54.27;10277;71203813.83;2025-04-13;2025-04-25
+Port of Paranaguá;Port of Lianyungang;steel;1271192;31.47;9970;40004412.24;2025-02-26;2025-03-13
+Port of Tubarão;Port of Keelung;lumber;1789676;45.87;9773;82092438.12;2025-03-10;2025-03-15
+Port of Buenos Aires;Port of Incheon;paper;1829749;50.57;10506;92530406.93;2025-04-07;2025-04-17
+Port of Rio Grande;Port of Incheon;kraft liner board;1813512;42.38;10476;76856638.56;2025-03-19;2025-03-24
+Port of Tubarão;Port of Tianjin;lumber;697793;43.01;9211;30012076.93;2025-04-24;2025-05-06
+Port of Tubarão;Port of Taichung;paper;948712;43.63;9722;41392304.56;2025-02-12;2025-02-23
+Port of Montevideo;Port of Yantai;paper;960356;53.35;10614;51234992.6;2025-03-25;2025-04-05
+Port of Montevideo;Port of Kobe;rice;1075614;52.38;10247;56340661.32;2025-03-16;2025-03-23
+Port of Itaqui;Port of Gwangyang;paper;997315;38.64;8813;38536251.6;2025-03-05;2025-03-20
+Port of Itaqui;Port of Qingdao;fertilizers;738809;54.4;8624;40191209.6;2025-04-23;2025-04-29
+Port of Itaqui;Port of Yantai;pulp;1558941;36.96;8570;57618459.36;2025-02-01;2025-02-15
+Port of Santos;Port of Rizhao;tissue;840120;54.96;9800;46172995.2;2025-04-08;2025-04-17
+Port of Bahía Blanca;Port of Rizhao;fertilizers;766205;53.99;10591;41367407.95;2025-04-27;2025-05-03
+Port of Itaqui;Port of Kaohsiung;soya beans;1816877;40.85;9307;74219425.45;2025-03-22;2025-03-27
+Port of Vitória;Port of Shanghai;lumber;707733;31.19;9628;22074192.27;2025-04-17;2025-04-26
+Port of São Francisco do Sul;Port of Kaohsiung;grains;1271349;43.87;10164;55774080.63;2025-04-02;2025-04-14
+Port of Tubarão;Port of Lianyungang;panel products;1615688;34.82;9425;56258256.16;2025-04-19;2025-04-25
+Port of Bahía Blanca;Port of Qingdao;kraft liner board;1599348;34.75;10604;55577343.0;2025-04-26;2025-05-03
+Port of Vitória;Port of Rizhao;pulp;1290982;52.9;9409;68292947.8;2025-04-19;2025-04-30
+Port of São Francisco do Sul;Port of Tangshan;kraft liner board;1377514;59.99;9766;82637064.86;2025-04-10;2025-04-18
+Port of Bahía Blanca;Port of Yantai;kraft liner board;648956;35.21;10616;22849740.76;2025-02-06;2025-02-15
+Port of Vitória;Port of Kobe;kraft liner board;1866502;41.61;9911;77665148.22;2025-04-20;2025-04-29
+Port of Vitória;Port of Kaohsiung;steel;1750290;32.25;9716;56446852.5;2025-04-01;2025-04-11
+Port of Buenos Aires;Port of Lianyungang;rice;1782681;33.33;10688;59416757.73;2025-03-26;2025-04-02
+Port of Rio Grande;Port of Kobe;steel;1490677;43.25;10408;64471780.25;2025-02-20;2025-02-26
+Port of Vitória;Port of Yantai;corn;1789997;36.39;9405;65137990.83;2025-03-06;2025-03-14
+Port of Rio Grande;Port of Tianjin;lumber;582825;47.6;10158;27742470.0;2025-02-05;2025-02-10
+Port of Santos;Port of Guangzhou;granite blocks;955172;51.8;9684;49477909.6;2025-04-01;2025-04-12
+Port of São Francisco do Sul;Port of Tianjin;tissue;1021817;36.3;9778;37091957.1;2025-02-03;2025-02-14
+Port of Vitória;Port of Qingdao;tissue;872683;39.73;9420;34671695.59;2025-03-21;2025-03-30
+Port of Itaqui;Port of Busan;tissue;1778481;35.74;8815;63562910.94;2025-03-03;2025-03-08
+Port of Bahía Blanca;Port of Busan;steel;1583094;55.24;10223;87450112.56;2025-02-10;2025-02-15
+Port of Santos;Port of Taichung;fertilizers;914943;36.06;10090;32992844.58;2025-02-21;2025-03-06
+Port of Paranaguá;Port of Guangzhou;lumber;1254494;55.27;9801;69335883.38;2025-04-23;2025-05-05
+Port of Montevideo;Port of Kaohsiung;rice;876302;42.62;10047;37347991.24;2025-02-09;2025-02-24
+Port of São Francisco do Sul;Port of Keelung;corn;1004442;44.84;10282;45039179.28;2025-02-17;2025-02-23
+Port of São Francisco do Sul;Port of Yokohama;rice;1294612;33.68;10110;43602532.16;2025-02-21;2025-03-05
+Port of Tubarão;Port of Keelung;pulp;1129088;50.76;9773;57312506.88;2025-02-10;2025-02-16
+Port of Montevideo;Port of Rizhao;panel products;1017964;32.69;10593;33277243.16;2025-02-24;2025-03-03
+Port of Buenos Aires;Port of Tangshan;lumber;904587;59.73;10463;54030981.51;2025-04-06;2025-04-15

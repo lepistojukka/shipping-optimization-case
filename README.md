@@ -44,7 +44,7 @@ Problem Definition:
 There are multiple cargos that needs to transported from its origin port to the destination port. How do we satisfy transportation demand at the loading and discharging ports without wasting money on bunker fuel and while maximizing the operating income.
 
 ### Problem goal:
-Reduce bunker fuel costs and the time it takes to build cargo loading schedules and itinerarios for each vessel, while making sure the delivery requirements (for instance `laycan` and `draft`) are met.
+Reduce bunker fuel costs and build most optimal cargo loading schedules and itinerary for each vessel, while making sure the delivery requirements (for instance `laycan` and `draft`) are met.
 
 ### Proposal:
 Build a quantum optimization application which provides schedules and itinerary to a fleet of vessels.
